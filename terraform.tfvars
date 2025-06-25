@@ -1,0 +1,5 @@
+org_id             = "YOUR_ORG_ID"
+billing_account_id = "YOUR_BILLING_ACCOUNT_ID"
+region             = "asia-southeast1"
+zone               = "asia-southeast1-a"
+ctf_users_group    = "ctf-users@yourdomain.com"
